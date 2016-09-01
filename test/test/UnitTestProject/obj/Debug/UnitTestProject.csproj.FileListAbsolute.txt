@@ -1,0 +1,6 @@
+D:\Transfert\test\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+D:\Transfert\test\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Transfert\test\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Transfert\test\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Transfert\test\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Transfert\test\UnitTestProject\obj\Debug\UnitTestProject.pdb
